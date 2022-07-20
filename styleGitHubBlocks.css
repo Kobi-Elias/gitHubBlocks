@@ -1,0 +1,43 @@
+*{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: 'Gill Sans', sans-serif;
+}
+.container{
+    width: 760px;
+}
+.box1{
+    display: flex;
+    background-color: royalblue;
+    height: 240px;
+    
+    align-items: center;
+    margin: 20px auto;
+    
+}
+.box2{
+    display: flex;
+    background-color: gold;
+    height: 240px;
+    
+    align-items: center;
+    margin: 20px auto;
+    
+
+}
+.box3{
+    display: flex;
+    background-color: darkorchid;
+    height: 240px;
+    
+    align-items: center;
+    margin: 20px auto;
+}
+p, h1{
+    text-align: center;
+}
+img{
+    height: 200px;
+  
+}
